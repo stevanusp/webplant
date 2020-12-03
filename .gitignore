@@ -1,0 +1,6 @@
+# Python Caches
+__pycache__/
+venvlib/
+webplantlib/
+# IDE Related
+.vscode/
