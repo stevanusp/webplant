@@ -43,7 +43,8 @@ Either run `app.py` or `flask run`.
   - /static/ --> css file location
   - /app.py --> The main python file
 
-## Project Refrences
+## Project Refrences and Tutorials
 
-- <https://www.youtube.com/playlist?list=PLC86yC9XtBxqpbY-3SYs9IahAC9bBE4PY>
 - <https://create.arduino.cc/projecthub/murthysiddhant/plant-monitor-sensor-to-front-end-c1f715>
+- <https://www.youtube.com/playlist?list=PLC86yC9XtBxqpbY-3SYs9IahAC9bBE4PY>
+- <https://www.youtube.com/watch?time_continue=393&v=tXpFERibRaU&feature=emb_title>
