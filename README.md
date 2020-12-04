@@ -45,6 +45,7 @@ Either run `app.py` or `flask run`.
 
 ## Project Refrences and Tutorials
 
+- <https://create.arduino.cc/projecthub/mafzal/temperature-monitoring-with-dht22-arduino-15b013>
 - <https://create.arduino.cc/projecthub/murthysiddhant/plant-monitor-sensor-to-front-end-c1f715>
 - <https://www.youtube.com/playlist?list=PLC86yC9XtBxqpbY-3SYs9IahAC9bBE4PY>
 - <https://www.youtube.com/watch?time_continue=393&v=tXpFERibRaU&feature=emb_title>
