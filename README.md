@@ -3,7 +3,8 @@
 ## Requirements
 
 - Python 3 with pip and venv installed
-
+- Arduino Library
+  - ArduinoJson
 ## Installation
 
 1. Download
